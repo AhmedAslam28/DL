@@ -1,2 +1,4 @@
 # DL
-deep learning basics 
+Deep learning basics 
+
+DL PROJECTS INSIDE BRANCH 1
