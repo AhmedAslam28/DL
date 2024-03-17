@@ -1,2 +1,4 @@
 # DL
-deep learning basics 
+Deep learning basics 
+
+DL projects inside Branch 1
